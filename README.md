@@ -1,1 +1,1 @@
-First console game. The second app on java =)
+Сonsole game. The second app on java =)
